@@ -25,6 +25,53 @@ Mechanical design engineer responsible for:
 - Servo-actuated pick-and-drop payload mechanism
 - Design-for-additive-manufacturing optimisation across all printed parts
 - Static and modal FEA analysis under estimated flight loads
+
+## Design Development, Manufacturing & Flight Validation
+
+### Initial Assembly & Structural Design
+
+<img src="Drawing_of_assembly.png" width="700">
+
+The drone platform was designed specifically for additive manufacturing rather than adapting a conventionally manufactured airframe. The assembly design focused on lightweight structural optimisation, modularity, ease of printing, and rapid assembly while maintaining sufficient rigidity under flight loads.
+
+The airframe and payload mechanism were modelled entirely in SolidWorks with geometry optimised for FDM manufacturing constraints such as:
+- print orientation,
+- wall thickness,
+- infill efficiency,
+- support reduction,
+- and strength-to-weight balance.
+
+---
+
+### FDM Manufacturing & Prototype Fabrication
+
+<img src="3D_printed.png" width="700">
+
+All structural components of the drone were fabricated using FDM 3D printing. The manufacturing workflow involved iterative print-testing and redesign cycles to improve dimensional accuracy, assembly fitment, and structural reliability under operational loading conditions.
+
+The additive manufacturing approach enabled:
+- rapid prototyping,
+- lightweight custom geometries,
+- fast design iteration,
+- and low-cost structural experimentation.
+
+The project also explored design-for-additive-manufacturing (DfAM) principles to minimise material usage while maintaining mechanical integrity during flight operations.
+
+---
+
+### Final Flight-Tested Prototype
+
+<img src="Final_version.png" width="700">
+
+The completed drone integrated the fully printed airframe with a servo-actuated autonomous payload pick-and-drop mechanism developed for the ASME Asia-Pacific 3D Printing Drone Challenge.
+
+The final system successfully demonstrated:
+- stable flight performance,
+- payload carrying capability,
+- autonomous pick-and-drop functionality,
+- and structural survivability during testing and competition operation.
+
+The project combined CAD modelling, additive manufacturing, structural engineering, and experimental validation into a single multidisciplinary prototype. The completed entry placed in the Top 10 across the Asia-Pacific region in the ASME 3D Printing Drone Design Challenge 2021.
  
 ## Highlights
  
