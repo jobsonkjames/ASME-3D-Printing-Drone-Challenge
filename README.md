@@ -313,7 +313,7 @@ Arm bending modes (63 Hz, 91 Hz) are well separated below the excitation band. N
 
 - Top 10 Asia-Pacific placement in international student competition
 - Full airframe designed in SolidWorks with FDM print orientation, wall thickness, and infill optimised for strength-to-weight
-- Hollow rectangular arm cross-section: 38% lighter than solid while maintaining SF = 26.9 under flight loads
+- Hollow rectangular arm cross-section: 38% lighter than solid while maintaining SF = 2.7 under flight loads
 - Arm first natural frequency (63 Hz) safely below motor excitation band (133–200 Hz) — no resonance risk
 - Servo-actuated pick-and-drop mechanism sized for 2× safety factor over payload holding torque
 - Successful flight testing with autonomous pick-and-drop during competition
