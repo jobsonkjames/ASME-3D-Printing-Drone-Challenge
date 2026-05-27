@@ -237,6 +237,11 @@ Horizontal drift (at 2 m/s forward approach speed):
 Strategy: reduce to ≤ 0.5 m/s approach before release
   x_corrected = 0.5 × 0.55 = 0.28 m  ✓  (acceptable for competition target zone)
 ```
+## Assembly Drawing
+
+![Drone Assembly Drawing](Drawing_of_assembly.png)
+
+*Engineering assembly drawing of the ASME 3D printed quadcopter showing top, side, and isometric orthographic views generated from the SolidWorks assembly.*
 
 ---
 
