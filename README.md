@@ -244,7 +244,7 @@ Strategy: reduce to ≤ 0.5 m/s approach before release
 
 ### Von Mises Stress — Full Throttle Load Case
 
-![Von Mises stress distribution under 4× 4.95 N motor loads](stress_analysis.png)
+![Von Mises stress distribution under 4× 4.95 N motor loads](Stress_analysis.png)
 
 *ANSYS Static Structural — Equivalent (von Mises) Stress. Motor loads: 4.95 N downward at each motor mount (full-throttle, T/W = 2.2 case). Material: PETG FDM printed.*
 
