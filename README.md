@@ -73,7 +73,11 @@ Margin:                        39% above requirement ✓
 Estimated hover current:  ~10 A per motor
 Total hover power:         10 A × 4 × 11.1 V = 444 W
 ```
+## Assembly Drawing
 
+![Drone SolidWorks Assembly](solidworks.png)
+
+*SolidWorks isometric view of the ASME 3D printed quadcopter — truss-lattice arms (orange), central mounting plate (blue), brushless motors with 5" props. All structural components designed for FDM manufacturing.*
 ---
 
 ## Arm Structural Analysis — Cantilever Bending
